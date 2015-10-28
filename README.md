@@ -1,6 +1,6 @@
 # LearningHyperspectral
 This code implements self-learning classifier using an Autoencoder and a Softmax classifier 
-and attempts to classify crops using hyperspectral data. However our current result do not outperform the state of the art.  
+and attempts to classify crops using hyperspectral data. However, our current solution does not outperform the state of the art.  
 
 
 ![alt tag](https://github.com/researcher111/LearningHyperspectral/blob/master/starter-Pines/groundTruth.png?raw=true)
