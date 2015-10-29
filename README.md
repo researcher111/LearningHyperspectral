@@ -1,6 +1,6 @@
 # Learning From Hyperspectral Data
 
-The code presented here is based on code I wrote to complete the excersises that can be found here [link](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial). Once I had implemented and tested the solution I extended the auto encoder and softmax classifier to work hyperspectral data. However, the current solution does not outperform the state of the art.  
+The code presented here is based on code I wrote to complete the excersises that can be found here [link](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial). Once I had implemented and tested the solution I extended the auto encoder and softmax classifier to work on hyperspectral data. However, the current solution does not outperform the state of the art.  
 
 
 ![alt tag](https://github.com/researcher111/LearningHyperspectral/blob/master/starter-Pines/groundTruth.png?raw=true)
